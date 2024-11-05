@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/EB/KitchenScene-Quest.unity
+    guid: 8368e9b51c8f6c64a875db6dce6f4881
+  - enabled: 0
+    path: Assets/Scenes/EB/KitchenSceneEB.unity
+    guid: 681d3f89aa4d49146abcfa717edc8757
+  - enabled: 1
+    path: Assets/Meshs/Oculus/VR/Scenes/HandTest_Custom.unity
+    guid: c884d076d6398b54492bcc64bbe30bf5
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 53591b8b8ecbbfb4eb1d9f395c2a0af7, type: 2}
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 89f86157536369740856d753bedd1d0e, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 0081a3b32a7445e4aaa49b1cc52fc443, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c09fbf5614eafb2419dca6c9d4bc7ca6, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 250c2a88460def040ab59926de11fb1a, type: 2}
